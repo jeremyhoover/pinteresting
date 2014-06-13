@@ -10,6 +10,8 @@ gem 'devise', '~> 3.1.0rc2'
 gem 'paperclip', github: 'thoughtbot/paperclip'
 gem 'aws-sdk', '~> 1.42.0'
 gem 'masonry-rails', '~> 0.2.0'
+gem 'will_paginate', '~> 3.0.5'
+gem 'will_paginate-bootstrap'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
