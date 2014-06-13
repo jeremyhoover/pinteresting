@@ -8,6 +8,7 @@ gem 'rails', '4.1.1'
 
 gem 'devise', '~> 3.1.0rc2'
 gem 'paperclip', github: 'thoughtbot/paperclip'
+gem 'aws-sdk', '~> 1.42.0'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
